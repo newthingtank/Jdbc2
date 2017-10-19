@@ -5,7 +5,7 @@ package exercises;
  *Created on Apr 12, 2015
  *Purpose: Jdbc.java - connect to a database using Oracle Thin Driver
  */
-
+//insery libraries 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
